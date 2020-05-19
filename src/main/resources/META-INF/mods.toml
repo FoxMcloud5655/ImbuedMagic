@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+issueTrackerURL="http://github.com/FoxMcloud5655/ImbuedMagic/"
+[[mods]]
+modId="imbuedmagic"
+version="${file.jarVersion}"
+displayName="Imbued Magic"
+authors="FoxMcloud5655"
+description='''
+Have you ever wanted to be able to imbue yourself with magic and cast spells D&D style?
+
+This is the mod for you.'''
